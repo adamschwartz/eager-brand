@@ -6,7 +6,7 @@
 
 Never refer to the Eager App Store as only “App Store” or “Eager Store”. Always use the complete “Eager App Store”.
 
-When linking to the __Eager App Store__, please use [store.eager.io](https://store.eager.io).
+When linking to the __Eager App Store__, please use [eager.io](https://eager.io).
 
 ### Logo
 
