@@ -1,8 +1,6 @@
-# Eager
+# Eager Brand
 
 ### [Download .zip](https://github.com/EagerIO/Brand/archive/master.zip)
-
-## Brand guidelines
 
 ### Eager App Store
 
