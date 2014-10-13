@@ -1,5 +1,7 @@
 # Eager
 
+### [Download our logo and other branding resources](https://github.com/EagerIO/Brand/archive/master.zip)
+
 ## Brand guidelines
 
 ### Eager App Store
