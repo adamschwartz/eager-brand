@@ -1,6 +1,6 @@
 # Eager
 
-### [Download our logo and other branding resources](https://github.com/EagerIO/Brand/archive/master.zip)
+### [Download .zip](https://github.com/EagerIO/Brand/archive/master.zip)
 
 ## Brand guidelines
 
