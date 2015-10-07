@@ -18,9 +18,9 @@ Please use the logo.png file included in this project.
 
 ### Colors
 
-– Brand Pink — #e90f92
+- Brand Pink — #e90f92
 - Logo Axial Gradient Blue — #261ddb
-— Logo Axial Gradient Red — #fa015d
+- Logo Axial Gradient Red — #fa015d
 
 The official brand color of Eager is #e9of92. The Eager logo is a diagonal axial gradient made up of two colors, #261ddb in the top left corner and #fa015d in the bottom right corner.
 
